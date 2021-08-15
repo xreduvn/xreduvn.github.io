@@ -1,0 +1,849 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 08 Aug 2021 15:32:40 at https://www.monsterlab.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.monsterlab.vn/ -O1 "C:\Users\localadmin\Documents\My Websites\www.monsterlab.vn" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:32:42	Warning: 	Note: due to https://www.monsterlab.vn remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+15:33:17	Error: 	"Forbidden" (403) at link https://www.monsterlab.vn/wp-content/themes/jupiter/assets/js/ (from https://www.monsterlab.vn/)
+15:33:17	Error: 	"Forbidden" (403) at link https://www.monsterlab.vn/wp-content/themes/jupiter/ (from https://www.monsterlab.vn/)
+15:33:45	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/pages/30 (from https://www.monsterlab.vn/)
+15:38:49	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/chuongtrinh-9plus-design/
+15:38:49	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/chuongtrinh-9plus-design/ to https://www.monsterlab.vn/portfolio-posts/chuongtrinh-9plus-design/
+15:38:49	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/course-posts/comingsoon/ (from https://www.monsterlab.vn/)
+15:38:49	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/digital-artist-expert/
+15:38:49	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/digital-artist-expert/ to https://www.monsterlab.vn/portfolio-posts/digital-artist-expert/
+15:39:52	Error: 	"Forbidden" (403) at link https://www.monsterlab.vn/wp-content/plugins/artbees-captcha/generate-captcha.php (from https://www.monsterlab.vn/)
+15:39:57	Warning: 	Moved Permanently for www.monsterlab.vn/robots.txt
+15:39:57	Warning: 	Redirected link is identical because of 'URL Hack' option: www.monsterlab.vn/robots.txt and https://www.monsterlab.vn/robots.txt
+15:39:57	Warning: 	Warning moved treated for www.monsterlab.vn/robots.txt (real one is https://www.monsterlab.vn/robots.txt)
+15:39:57	Error: 	"Bad Request" (400) at link www.monsterlab.vn/wp-admin/admin-ajax.php (from https://www.monsterlab.vn/)
+15:40:07	Warning: 	File not parsed, looks like binary: https://www.monsterlab.vn/wp-content/plugins/revslider/public/assets/css/openhand.cur
+15:40:07	Warning: 	File not parsed, looks like binary: https://www.monsterlab.vn/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+15:40:07	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/wp-content/themes/jupiter/images/social-icons/twitter-blue.svg (from https://www.monsterlab.vn/wp-content/cache/minify/696a4.css)
+15:40:07	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/wp-content/themes/jupiter/assets/stylesheet/add-icon.svg (from https://www.monsterlab.vn/wp-content/cache/minify/696a4.css)
+15:40:07	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/wp-content/themes/jupiter/assets/stylesheet/pin-icon.png (from https://www.monsterlab.vn/wp-content/cache/minify/696a4.css)
+15:40:07	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/TweenLite.js (from https://www.monsterlab.vn/wp-content/cache/minify/dd73f.js)
+15:40:07	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/Version/ (from https://www.monsterlab.vn/wp-content/cache/minify/dd73f.js)
+15:40:31	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/pages/283 (from https://www.monsterlab.vn/gioi-thieu/)
+15:40:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=283
+15:40:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=283 to https://www.monsterlab.vn/gioi-thieu/
+15:41:16	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/pages/3506 (from https://www.monsterlab.vn/daotaodoanhnghiep/)
+15:41:16	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=3506
+15:41:16	Warning: 	File has moved from https://www.monsterlab.vn/?p=3506 to https://www.monsterlab.vn/daotaodoanhnghiep/
+15:41:17	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/pages/276 (from https://www.monsterlab.vn/khoa-hoc-dai-han/)
+15:41:17	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=276
+15:41:17	Warning: 	File has moved from https://www.monsterlab.vn/?p=276 to https://www.monsterlab.vn/khoa-hoc-dai-han/
+15:41:17	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4794
+15:41:17	Warning: 	File has moved from https://www.monsterlab.vn/?p=4794 to https://www.monsterlab.vn/portfolio-posts/chuongtrinh-9plus-design/
+15:41:18	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/hoc-phan-nen-tang-cho-nganh-thiet-ke-do-hoa/
+15:41:18	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/hoc-phan-nen-tang-cho-nganh-thiet-ke-do-hoa/ to https://www.monsterlab.vn/portfolio-posts/hoc-phan-nen-tang-cho-nganh-thiet-ke-do-hoa/
+15:41:18	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=3768
+15:41:18	Warning: 	File has moved from https://www.monsterlab.vn/?p=3768 to https://www.monsterlab.vn/portfolio-posts/hoc-phan-nen-tang-cho-nganh-thiet-ke-do-hoa/
+15:41:18	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/wp-content/uploads/2018/08/anatomy.png (from https://www.monsterlab.vn/portfolio-posts/hoc-phan-nen-tang-cho-nganh-thiet-ke-do-hoa/)
+15:41:18	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/wp-content/uploads/2018/08/pitching_1.webmhd.webm (from https://www.monsterlab.vn/portfolio-posts/hoc-phan-nen-tang-cho-nganh-thiet-ke-do-hoa/)
+15:41:18	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/wp-content/uploads/2019/07/thumb1.jpg (from https://www.monsterlab.vn/portfolio-posts/hoc-phan-nen-tang-cho-nganh-thiet-ke-do-hoa/)
+15:41:18	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/2d-design-motion-expert/
+15:41:18	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/2d-design-motion-expert/ to https://www.monsterlab.vn/portfolio-posts/2d-design-motion-expert/
+15:41:18	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2958
+15:41:18	Warning: 	File has moved from https://www.monsterlab.vn/?p=2958 to https://www.monsterlab.vn/portfolio-posts/2d-design-motion-expert/
+15:41:26	Error: 	"Request-URI Too Long" (414) at link https://www.monsterlab.vn/portfolio-posts/2d-design-motion-expert/'data:image/svg+xml;utf-8,%3C%3Fxml version%3D%221.0%22 encoding%3D%22utf-8%22%3F%3E%3C%21DOCTYPE svg PUBLIC %22-%2F%2FW3C%2F%2FDTD SVG 1.1%2F%2FEN%22 %22http%3A%2F%2Fwww.w3.org%2FGraphics%2FSVG%2F1.1%2FDTD%2Fsvg11.dtd%22%3E%3Csvg width%3D%2214px%22 height%3D%2212px%22 viewBox%3D%220 0 18 15%22 version%3D%221.1%22 xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22 xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%3E%3Cpolygon id%3D%22Combined-Shape%22 fill%3D%22%23f7be68%22 points%3D%228.98762301 0 0 9.12771969 0 14.519983 9 5.40479869 18 14.519983 18 9.12771969%22%3E%3C%2Fpolygon%3E%3C%2Fsvg%3E' (from https://www.monsterlab.vn/portfolio-posts/2d-design-motion-expert/)
+15:41:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=3147
+15:41:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=3147 to https://www.monsterlab.vn/portfolio-posts/digital-artist-expert/
+15:41:26	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/pages/298 (from https://www.monsterlab.vn/khoa-hoc-ngan-han/)
+15:41:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=298
+15:41:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=298 to https://www.monsterlab.vn/khoa-hoc-ngan-han/
+15:41:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2529
+15:41:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=2529 to https://www.monsterlab.vn/portfolio-posts/digital-art/
+15:41:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/character-sketch/
+15:41:26	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/character-sketch/ to https://www.monsterlab.vn/portfolio-posts/character-sketch/
+15:41:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/digital-painting/
+15:41:26	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/digital-painting/ to https://www.monsterlab.vn/khoa-hoc-ngan-han/digital-painting/
+15:41:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2051
+15:41:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=2051 to https://www.monsterlab.vn/portfolio-posts/character-sketch/
+15:41:32	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/wp-content/uploads/2017/08/420-rawhuion-e1504673999823.png (from https://www.monsterlab.vn/portfolio-posts/character-sketch/)
+15:41:35	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2058
+15:41:35	Warning: 	File has moved from https://www.monsterlab.vn/?p=2058 to https://www.monsterlab.vn/portfolio-posts/digital-painting/
+15:41:46	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/mau-nuoc-co-ban/
+15:41:46	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/mau-nuoc-co-ban/ to https://www.monsterlab.vn/albums/mau-nuoc-co-ban/
+15:41:46	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2061
+15:41:46	Warning: 	File has moved from https://www.monsterlab.vn/?p=2061 to https://www.monsterlab.vn/portfolio-posts/mau-nuoc-co-ban/
+15:41:52	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/pages/199 (from https://www.monsterlab.vn/dang-ky-hoc/)
+15:41:52	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=199
+15:41:52	Warning: 	File has moved from https://www.monsterlab.vn/?p=199 to https://www.monsterlab.vn/dang-ky-hoc/
+15:41:52	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/pages/6233 (from https://www.monsterlab.vn/dang-ky-opencamp/)
+15:41:52	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6233
+15:41:52	Warning: 	File has moved from https://www.monsterlab.vn/?p=6233 to https://www.monsterlab.vn/dang-ky-opencamp/
+15:41:52	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/pages/320 (from https://www.monsterlab.vn/blog/)
+15:41:52	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=320
+15:41:52	Warning: 	File has moved from https://www.monsterlab.vn/?p=320 to https://www.monsterlab.vn/blog/
+15:42:31	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7269 (from https://www.monsterlab.vn/con-duong-hoc-tap-danh-cho-hoc-sinh-yeu-thich-ve/)
+15:42:31	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7269
+15:42:31	Warning: 	File has moved from https://www.monsterlab.vn/?p=7269 to https://www.monsterlab.vn/con-duong-hoc-tap-danh-cho-hoc-sinh-yeu-thich-ve/
+15:42:31	Warning: 	Moved Permanently for https://www.monsterlab.vn/author/minh-tam/
+15:42:31	Warning: 	File has moved from https://www.monsterlab.vn/author/minh-tam/ to https://www.monsterlab.vn
+15:42:34	Warning: 	Moved Permanently for https://www.monsterlab.vn/author/lan-anh/
+15:42:34	Warning: 	File has moved from https://www.monsterlab.vn/author/lan-anh/ to https://www.monsterlab.vn
+15:42:40	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7262 (from https://www.monsterlab.vn/sinh-vien-thiet-ke-logo-chuyen-mon-cao/)
+15:42:40	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7262
+15:42:40	Warning: 	File has moved from https://www.monsterlab.vn/?p=7262 to https://www.monsterlab.vn/sinh-vien-thiet-ke-logo-chuyen-mon-cao/
+15:42:40	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7246 (from https://www.monsterlab.vn/sinh-vien-monster-lab-vung-vang-trong-cong-viec/)
+15:42:40	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7246
+15:42:40	Warning: 	File has moved from https://www.monsterlab.vn/?p=7246 to https://www.monsterlab.vn/sinh-vien-monster-lab-vung-vang-trong-cong-viec/
+15:42:40	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6714 (from https://www.monsterlab.vn/hoc-ve-minh-hoa-khong-co-duong-tat/)
+15:42:40	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6714
+15:42:40	Warning: 	File has moved from https://www.monsterlab.vn/?p=6714 to https://www.monsterlab.vn/hoc-ve-minh-hoa-khong-co-duong-tat/
+15:42:40	Warning: 	Moved Permanently for https://www.monsterlab.vn/author/meochoco/
+15:42:40	Warning: 	File has moved from https://www.monsterlab.vn/author/meochoco/ to https://www.monsterlab.vn
+15:42:42	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/categories/16 (from https://www.monsterlab.vn/category/event/)
+15:42:52	Warning: 	Moved Permanently for https://www.monsterlab.vn/author/lailamaiii/
+15:42:52	Warning: 	File has moved from https://www.monsterlab.vn/author/lailamaiii/ to https://www.monsterlab.vn
+15:43:31	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6672 (from https://www.monsterlab.vn/talkshow_series-theo-chan-dan-anh-02-nghe-ve-minh-hoa/)
+15:43:31	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6672
+15:43:31	Warning: 	File has moved from https://www.monsterlab.vn/?p=6672 to https://www.monsterlab.vn/talkshow_series-theo-chan-dan-anh-02-nghe-ve-minh-hoa/
+15:43:42	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6676 (from https://www.monsterlab.vn/lam-phim-hoat-hinh-o-viet-nam-chon-huong-di-nao/)
+15:43:42	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6676
+15:43:42	Warning: 	File has moved from https://www.monsterlab.vn/?p=6676 to https://www.monsterlab.vn/lam-phim-hoat-hinh-o-viet-nam-chon-huong-di-nao/
+15:43:46	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6666 (from https://www.monsterlab.vn/talkshow_series-theo-chan-dan-anh-01-nghe-lam-phim-hoat-hinh/)
+15:43:46	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6666
+15:43:46	Warning: 	File has moved from https://www.monsterlab.vn/?p=6666 to https://www.monsterlab.vn/talkshow_series-theo-chan-dan-anh-01-nghe-lam-phim-hoat-hinh/
+15:43:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6305 (from https://www.monsterlab.vn/cuoc-thi-toi-thich-ve-co-hoi-gianh-hoc-bong-100-000-000d-cua-hoc-vien-quai-vat/)
+15:43:47	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6305
+15:43:47	Warning: 	File has moved from https://www.monsterlab.vn/?p=6305 to https://www.monsterlab.vn/cuoc-thi-toi-thich-ve-co-hoi-gianh-hoc-bong-100-000-000d-cua-hoc-vien-quai-vat/
+15:43:59	Warning: 	Moved Permanently for https://www.monsterlab.vn/chrome-extension://
+15:43:59	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.monsterlab.vn/chrome-extension:// and https://www.monsterlab.vn/chrome-extension:/
+15:43:59	Warning: 	File has moved from https://www.monsterlab.vn/chrome-extension:// to https://www.monsterlab.vn/chrome-extension:/
+15:43:59	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/^([^:/? (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+15:43:59	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/restserver.php (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+15:43:59	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+15:43:59	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/GET (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+15:43:59	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/dialog/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+15:43:59	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/Trident/ (from https://www.monsterlab.vn/wp-content/cache/minify/76138.js)
+15:43:59	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/filename.pdf (from https://www.monsterlab.vn/wp-content/cache/minify/0b163.js)
+15:43:59	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/e+_mail.me (from https://www.monsterlab.vn/wp-content/cache/minify/0b163.js)
+15:43:59	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/edge/ (from https://www.monsterlab.vn/wp-content/cache/minify/0b163.js)
+15:43:59	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/window.location.href (from https://www.monsterlab.vn/wp-content/cache/minify/0b163.js)
+15:44:04	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/ResizeSensor.js (from https://www.monsterlab.vn/wp-content/cache/minify/d80b6.js)
+15:44:04	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/pages/5851 (from https://www.monsterlab.vn/open-campus-day/)
+15:44:04	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5851
+15:44:04	Warning: 	File has moved from https://www.monsterlab.vn/?p=5851 to https://www.monsterlab.vn/open-campus-day/
+15:44:04	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7147 (from https://www.monsterlab.vn/cac-loai-giay-ve-mau-nuoc/)
+15:44:04	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7147
+15:44:04	Warning: 	File has moved from https://www.monsterlab.vn/?p=7147 to https://www.monsterlab.vn/cac-loai-giay-ve-mau-nuoc/
+15:44:13	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1083 (from https://www.monsterlab.vn/ban-da-biet-chuoi-su-kien-thang-07-cuc-ky-thu-vi-tai-monster-lab/)
+15:44:13	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1083
+15:44:13	Warning: 	File has moved from https://www.monsterlab.vn/?p=1083 to https://www.monsterlab.vn/ban-da-biet-chuoi-su-kien-thang-07-cuc-ky-thu-vi-tai-monster-lab/
+15:44:43	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/2870 (from https://www.monsterlab.vn/poster-la-gi-tai-sao-can-su-dung-poster/)
+15:44:43	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2870
+15:44:43	Warning: 	File has moved from https://www.monsterlab.vn/?p=2870 to https://www.monsterlab.vn/poster-la-gi-tai-sao-can-su-dung-poster/
+15:44:43	Error: 	"Request-URI Too Long" (414) at link https://www.monsterlab.vn/poster-la-gi-tai-sao-can-su-dung-poster/;https://lh3.googleusercontent.com/oa06Y7HrjXDa0OE_L85VsxnQSUxgT5KI2VkRZuQ6fA7UXUpIlrkVWgV3dHdPg3wNeZgNr7MzFkeg02u9dt8Q0bUrN2Y9Y_gg8Y2ZD2IUs18M9BWg1veWwt4-8vBKtYRPxUHLqTAIrIOXU2UDWHa_gUe16d0ot6ESPPUo_kfEQlrPBZxcuPNk3vIJSUQM9OPm9zH1UejR7OgBIcg0IkjavFYg8r29GDXDl94tiMNZcDqidZV7g6swifNmoyU1BQxxV8EIz8F7LGyuZs5Li8DI4VUY2LRL6eLAa1c0-JNoE4ma_uqITrPWJqH5c4EtnAaDnx3b3mwjhQGm1Rw8D4UbDX5RvIsSkX7pRNTAKbvP8DSqIJbCEQTekmmtvO4yXP05BfOGNlq8bYsf-ZsjW-0pd9-VAGOV5aHZ-5cmwmUsbwKYJHIfhpIY_gDjGss5mDP20fBbgLywfUYsgGb6nXSAokOG2pa8Wkj1cxCLnuIX2uXzAwTHhC9SqerxfMq3K9AnAv7KJrnudICz8HGKe2HSM_CEa7NCDGjqvZJo7i5NDPC1wT9O92ggugytX7hPSwBqkjD1yirFbqxiRk165WT3NtNUi8Keg4TI55Re188m28rZLwCE_-h8UlCpHc7gGYf5XavskRcLHUOHPGoRq5RcTtBn5klCQO_xCBgtdnMjZeJZln_CXkFSJQA=w626-h352-no (from https://www.monsterlab.vn/poster-la-gi-tai-sao-can-su-dung-poster/)
+15:45:20	Error: 	"Not Found" (404) at link https://res.cloudinary.com/dasejbdec/image/upload/v1552384214/0c42a8b7520e14b48504a73eed68fafa-niuta1zz535ir3divt82g26ckagc79n07sgg95nlg8.jpg (from https://www.monsterlab.vn/poster-la-gi-tai-sao-can-su-dung-poster/)
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=651
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=651 to https://www.monsterlab.vn/team/nguyen-quoc-hung/
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=624
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=624 to https://www.monsterlab.vn/team/gv-sample-03/
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=626
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=626 to https://www.monsterlab.vn/team/gv-sample-04/
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=633
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=633 to https://www.monsterlab.vn/team/gv-nguyen-ngoc-linh/
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=635
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=635 to https://www.monsterlab.vn/team/gv-sample-08/
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=628
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=628 to https://www.monsterlab.vn/team/gv-sample-05/
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=992
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=992 to https://www.monsterlab.vn/team/anders-leth-pederson/
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=617
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=617 to https://www.monsterlab.vn/team/gv-nguyen-bich-phuong/
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5242
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=5242 to https://www.monsterlab.vn/team/le-huong-mi/
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=583
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=583 to https://www.monsterlab.vn/team/nguyen-thuy-anh/
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=631
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=631 to https://www.monsterlab.vn/team/gv-sample-06/
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=587
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=587 to https://www.monsterlab.vn/team/truong-van-ngoc/
+15:45:26	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/gioi-thieu/youtu.be/ (from https://www.monsterlab.vn/wp-content/cache/minify/6b550.js)
+15:45:26	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/daotaodoanhnghiep/youtu.be/ (from https://www.monsterlab.vn/wp-content/cache/minify/40c3e.js)
+15:45:26	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/portfolio-posts/chuongtrinh-9plus-design/ResizeSensor.js (from https://www.monsterlab.vn/wp-content/cache/minify/4372b.js)
+15:45:26	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/pages/3205 (from https://www.monsterlab.vn/hoc-qua-trai-nghiem-2d-design-expert/)
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=3205
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=3205 to https://www.monsterlab.vn/hoc-qua-trai-nghiem-2d-design-expert/
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/2d-design-expert-2/
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/2d-design-expert-2/ to https://www.monsterlab.vn/testimonial/2d-design-expert-2/
+15:45:26	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/pages/278 (from https://www.monsterlab.vn/khong-gian-tai-monster-lab/)
+15:45:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=278
+15:45:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=278 to https://www.monsterlab.vn/khong-gian-tai-monster-lab/
+15:45:31	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/design-basic/
+15:45:31	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/design-basic/ to https://www.monsterlab.vn/portfolio-posts/design-basic/
+15:45:31	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2470
+15:45:31	Warning: 	File has moved from https://www.monsterlab.vn/?p=2470 to https://www.monsterlab.vn/portfolio-posts/design-basic/
+15:45:31	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/civi-design-basic/
+15:45:31	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/civi-design-basic/ to https://www.monsterlab.vn/portfolio-posts/civi-design-basic/
+15:45:31	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1981
+15:45:31	Warning: 	File has moved from https://www.monsterlab.vn/?p=1981 to https://www.monsterlab.vn/portfolio-posts/civi-design-basic/
+15:45:34	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/motion-graphics/
+15:45:34	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/motion-graphics/ to https://www.monsterlab.vn/portfolio-posts/motion-graphics/
+15:45:34	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2065
+15:45:34	Warning: 	File has moved from https://www.monsterlab.vn/?p=2065 to https://www.monsterlab.vn/portfolio-posts/motion-graphics/
+15:45:34	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/dot-pha-tu-duy-thiet-ke/
+15:45:34	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/dot-pha-tu-duy-thiet-ke/ to https://www.monsterlab.vn/portfolio-posts/dot-pha-tu-duy-thiet-ke/
+15:45:34	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2017
+15:45:34	Warning: 	File has moved from https://www.monsterlab.vn/?p=2017 to https://www.monsterlab.vn/portfolio-posts/dot-pha-tu-duy-thiet-ke/
+15:45:39	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/design-for-ads/
+15:45:39	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/design-for-ads/ to https://www.monsterlab.vn/design-for-ads/
+15:45:39	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2029
+15:45:39	Warning: 	File has moved from https://www.monsterlab.vn/?p=2029 to https://www.monsterlab.vn/portfolio-posts/design-for-ads/
+15:45:39	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7255 (from https://www.monsterlab.vn/gioi-thieu-chuong-trinh-hoc-concept-art-illustration/)
+15:45:39	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7255
+15:45:39	Warning: 	File has moved from https://www.monsterlab.vn/?p=7255 to https://www.monsterlab.vn/gioi-thieu-chuong-trinh-hoc-concept-art-illustration/
+15:45:39	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7250 (from https://www.monsterlab.vn/gioi-thieu-chuong-trinh-hoc-2d-design-motion-graphics/)
+15:45:39	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7250
+15:45:39	Warning: 	File has moved from https://www.monsterlab.vn/?p=7250 to https://www.monsterlab.vn/gioi-thieu-chuong-trinh-hoc-2d-design-motion-graphics/
+15:45:39	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7227 (from https://www.monsterlab.vn/dieu-minh-tu-hao-nhat-la-cac-ban-sinh-vien-do-hoa/)
+15:45:39	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7227
+15:45:39	Warning: 	File has moved from https://www.monsterlab.vn/?p=7227 to https://www.monsterlab.vn/dieu-minh-tu-hao-nhat-la-cac-ban-sinh-vien-do-hoa/
+15:45:39	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7239 (from https://www.monsterlab.vn/nganh-concept-art-mat-trai-trong-moi-truong-lam-viec-tai-viet-nam/)
+15:45:39	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7239
+15:45:39	Warning: 	File has moved from https://www.monsterlab.vn/?p=7239 to https://www.monsterlab.vn/nganh-concept-art-mat-trai-trong-moi-truong-lam-viec-tai-viet-nam/
+15:45:39	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7235 (from https://www.monsterlab.vn/cha-me-tam-ly-cung-con-vuot-qua-ki-thi-tuyen-sinh-vao-lop-10/)
+15:45:39	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7235
+15:45:39	Warning: 	File has moved from https://www.monsterlab.vn/?p=7235 to https://www.monsterlab.vn/cha-me-tam-ly-cung-con-vuot-qua-ki-thi-tuyen-sinh-vao-lop-10/
+15:45:39	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7169 (from https://www.monsterlab.vn/chuong-trinh-9-nganh-thiet-ke-do-hoa/)
+15:45:39	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7169
+15:45:39	Warning: 	File has moved from https://www.monsterlab.vn/?p=7169 to https://www.monsterlab.vn/chuong-trinh-9-nganh-thiet-ke-do-hoa/
+15:45:39	Error: 	"Forbidden" (403) at link https://scontent-hkt1-2.xx.fbcdn.net/v/t1.6435-9/196306659_3060845044193448_6578130262928483838_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=b4J7ROQzmloAX-wWrxZ&_nc_ht=scontent-hkt1-2.xx&oh=4c7113778cabac541c92401b8721fc55&oe=60D4B59A (from https://www.monsterlab.vn/chuong-trinh-9-nganh-thiet-ke-do-hoa/)
+15:45:39	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/con-duong-hoc-tap-danh-cho-hoc-sinh-yeu-thich-ve/ResizeSensor.js (from https://www.monsterlab.vn/wp-content/cache/minify/ec1e8.js)
+15:45:41	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/categories/1 (from https://www.monsterlab.vn/category/design-talk/)
+15:45:42	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7163 (from https://www.monsterlab.vn/co-hoi-lap-nghiep-som-cho-gioi-tre-voi-chuong-trinh-9/)
+15:45:42	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7163
+15:45:42	Warning: 	File has moved from https://www.monsterlab.vn/?p=7163 to https://www.monsterlab.vn/co-hoi-lap-nghiep-som-cho-gioi-tre-voi-chuong-trinh-9/
+15:45:55	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/hoc-ve-minh-hoa-khong-co-duong-tat/youtu.be/ (from https://www.monsterlab.vn/wp-content/cache/minify/dfc58.js)
+15:46:15	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4504 (from https://www.monsterlab.vn/trai-he-nghe-thuat-art-lab-2019/)
+15:46:16	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4504
+15:46:16	Warning: 	File has moved from https://www.monsterlab.vn/?p=4504 to https://www.monsterlab.vn/trai-he-nghe-thuat-art-lab-2019/
+15:46:30	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/categories/141 (from https://www.monsterlab.vn/category/tin-tuc/)
+15:47:35	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4063 (from https://www.monsterlab.vn/tong-ket-su-kien-nghe-ve-truyen-tranh-o-viet-nam/)
+15:47:35	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4063
+15:47:35	Warning: 	File has moved from https://www.monsterlab.vn/?p=4063 to https://www.monsterlab.vn/tong-ket-su-kien-nghe-ve-truyen-tranh-o-viet-nam/
+15:48:03	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4001 (from https://www.monsterlab.vn/nghe-ve-truyen-tranh-o-viet-nam-ton-tai-hay-khong-ton-tai/)
+15:48:03	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4001
+15:48:03	Warning: 	File has moved from https://www.monsterlab.vn/?p=4001 to https://www.monsterlab.vn/nghe-ve-truyen-tranh-o-viet-nam-ton-tai-hay-khong-ton-tai/
+15:48:05	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4078 (from https://www.monsterlab.vn/khai-giang-chuong-trinh-lien-ket-dao-tao-chat-luong-cao-monster-lab/)
+15:48:05	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4078
+15:48:05	Warning: 	File has moved from https://www.monsterlab.vn/?p=4078 to https://www.monsterlab.vn/khai-giang-chuong-trinh-lien-ket-dao-tao-chat-luong-cao-monster-lab/
+15:48:24	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/review-chuong-trinh-2d-design-cua-monsterlab/ (from https://www.monsterlab.vn/khai-giang-chuong-trinh-lien-ket-dao-tao-chat-luong-cao-monster-lab/)
+15:48:24	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4088 (from https://www.monsterlab.vn/tong-ket-su-kien-nghe-ve-minh-hoa/)
+15:48:24	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4088
+15:48:24	Warning: 	File has moved from https://www.monsterlab.vn/?p=4088 to https://www.monsterlab.vn/tong-ket-su-kien-nghe-ve-minh-hoa/
+15:48:34	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/171 (from https://www.monsterlab.vn/tag/ve-minh-hoa/)
+15:48:37	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/174 (from https://www.monsterlab.vn/tag/nghe-ve-minh-hoa/)
+15:48:37	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4988 (from https://www.monsterlab.vn/hanh-trinh-tim-lai-ban-than/)
+15:48:37	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4988
+15:48:37	Warning: 	File has moved from https://www.monsterlab.vn/?p=4988 to https://www.monsterlab.vn/hanh-trinh-tim-lai-ban-than/
+15:48:50	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/173 (from https://www.monsterlab.vn/tag/phim-hoat-hinh/)
+15:48:50	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/175 (from https://www.monsterlab.vn/tag/hoat-hinh/)
+15:48:50	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/176 (from https://www.monsterlab.vn/tag/lam-phim-hoat-hinh/)
+15:48:50	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/172 (from https://www.monsterlab.vn/tag/nghe-lam-phim-hoat-hinh/)
+15:48:50	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6325 (from https://www.monsterlab.vn/hoc-online-tai-monster-lab-co-nhu-ky-vong/)
+15:48:50	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6325
+15:48:50	Warning: 	File has moved from https://www.monsterlab.vn/?p=6325 to https://www.monsterlab.vn/hoc-online-tai-monster-lab-co-nhu-ky-vong/
+15:48:56	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6316 (from https://www.monsterlab.vn/hoc-truc-tuyen-tai-viet-nam-thuong-vang-ha-cam/)
+15:48:56	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6316
+15:48:56	Warning: 	File has moved from https://www.monsterlab.vn/?p=6316 to https://www.monsterlab.vn/hoc-truc-tuyen-tai-viet-nam-thuong-vang-ha-cam/
+15:49:03	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6131 (from https://www.monsterlab.vn/nga-re-cuoc-doi/)
+15:49:03	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6131
+15:49:03	Warning: 	File has moved from https://www.monsterlab.vn/?p=6131 to https://www.monsterlab.vn/nga-re-cuoc-doi/
+15:49:14	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7144 (from https://www.monsterlab.vn/gioi-thieu-ve-mau-sac-thong-qua-banh-xe-mau/)
+15:49:14	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7144
+15:49:14	Warning: 	File has moved from https://www.monsterlab.vn/?p=7144 to https://www.monsterlab.vn/gioi-thieu-ve-mau-sac-thong-qua-banh-xe-mau/
+15:49:18	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7154 (from https://www.monsterlab.vn/ky-thuat-su-dung-co-trong-ve-mau-nuoc/)
+15:49:18	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7154
+15:49:18	Warning: 	File has moved from https://www.monsterlab.vn/?p=7154 to https://www.monsterlab.vn/ky-thuat-su-dung-co-trong-ve-mau-nuoc/
+15:49:28	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/60 (from https://www.monsterlab.vn/tag/su-kien/)
+15:49:28	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/61 (from https://www.monsterlab.vn/tag/brand-identity/)
+15:49:28	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4112 (from https://www.monsterlab.vn/tong-ket-su-kien-dung-de-truyen-thong-danh-lua/)
+15:49:28	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4112
+15:49:28	Warning: 	File has moved from https://www.monsterlab.vn/?p=4112 to https://www.monsterlab.vn/tong-ket-su-kien-dung-de-truyen-thong-danh-lua/
+15:49:58	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4121 (from https://www.monsterlab.vn/thiet-ke-la-nghe-thoi-thuong-dung-de-truyen-thong-danh-lua/)
+15:49:58	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4121
+15:49:58	Warning: 	File has moved from https://www.monsterlab.vn/?p=4121 to https://www.monsterlab.vn/thiet-ke-la-nghe-thoi-thuong-dung-de-truyen-thong-danh-lua/
+15:49:58	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1130 (from https://www.monsterlab.vn/1130-2/)
+15:49:58	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1130
+15:49:58	Warning: 	File has moved from https://www.monsterlab.vn/?p=1130 to https://www.monsterlab.vn/1130-2/
+15:50:01	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1089 (from https://www.monsterlab.vn/co-1-phong-thi-nghiem-quai-vat-ngay-tai-ha-noi/)
+15:50:01	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1089
+15:50:01	Warning: 	File has moved from https://www.monsterlab.vn/?p=1089 to https://www.monsterlab.vn/co-1-phong-thi-nghiem-quai-vat-ngay-tai-ha-noi/
+15:50:02	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/79 (from https://www.monsterlab.vn/tag/design-basic/)
+15:50:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/87 (from https://www.monsterlab.vn/tag/poster/)
+15:50:15	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/121 (from https://www.monsterlab.vn/tag/tu-duy-thiet-ke/)
+15:50:17	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/122 (from https://www.monsterlab.vn/tag/design/)
+15:50:17	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1840 (from https://www.monsterlab.vn/photoshop-va-lightroom-lua-chon-nao-cua-nhung-nguoi-thich-chup-anh/)
+15:50:17	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1840
+15:50:17	Warning: 	File has moved from https://www.monsterlab.vn/?p=1840 to https://www.monsterlab.vn/photoshop-va-lightroom-lua-chon-nao-cua-nhung-nguoi-thich-chup-anh/
+15:50:19	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1743 (from https://www.monsterlab.vn/lam-nao-de-tao-ra-mot-poster-chuan-thiet-ke/)
+15:50:19	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1743
+15:50:19	Warning: 	File has moved from https://www.monsterlab.vn/?p=1743 to https://www.monsterlab.vn/lam-nao-de-tao-ra-mot-poster-chuan-thiet-ke/
+15:50:23	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1736 (from https://www.monsterlab.vn/mau-sac-anh-huong-den-quyet-dinh-mua-hang-nhu-nao/)
+15:50:23	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1736
+15:50:23	Warning: 	File has moved from https://www.monsterlab.vn/?p=1736 to https://www.monsterlab.vn/mau-sac-anh-huong-den-quyet-dinh-mua-hang-nhu-nao/
+15:50:23	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1711 (from https://www.monsterlab.vn/6-yeu-to-cua-mot-designer-xuat-sac/)
+15:50:23	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1711
+15:50:23	Warning: 	File has moved from https://www.monsterlab.vn/?p=1711 to https://www.monsterlab.vn/6-yeu-to-cua-mot-designer-xuat-sac/
+15:50:28	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/2857 (from https://www.monsterlab.vn/5-ly-do-thiet-ke-do-hoa-quan-trong-voi-doanh-nghiep-cua-ban/)
+15:50:28	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2857
+15:50:28	Warning: 	File has moved from https://www.monsterlab.vn/?p=2857 to https://www.monsterlab.vn/5-ly-do-thiet-ke-do-hoa-quan-trong-voi-doanh-nghiep-cua-ban/
+15:50:28	Error: 	"Request-URI Too Long" (414) at link https://www.monsterlab.vn/5-ly-do-thiet-ke-do-hoa-quan-trong-voi-doanh-nghiep-cua-ban/;https://lh3.googleusercontent.com/oa06Y7HrjXDa0OE_L85VsxnQSUxgT5KI2VkRZuQ6fA7UXUpIlrkVWgV3dHdPg3wNeZgNr7MzFkeg02u9dt8Q0bUrN2Y9Y_gg8Y2ZD2IUs18M9BWg1veWwt4-8vBKtYRPxUHLqTAIrIOXU2UDWHa_gUe16d0ot6ESPPUo_kfEQlrPBZxcuPNk3vIJSUQM9OPm9zH1UejR7OgBIcg0IkjavFYg8r29GDXDl94tiMNZcDqidZV7g6swifNmoyU1BQxxV8EIz8F7LGyuZs5Li8DI4VUY2LRL6eLAa1c0-JNoE4ma_uqITrPWJqH5c4EtnAaDnx3b3mwjhQGm1Rw8D4UbDX5RvIsSkX7pRNTAKbvP8DSqIJbCEQTekmmtvO4yXP05BfOGNlq8bYsf-ZsjW-0pd9-VAGOV5aHZ-5cmwmUsbwKYJHIfhpIY_gDjGss5mDP20fBbgLywfUYsgGb6nXSAokOG2pa8Wkj1cxCLnuIX2uXzAwTHhC9SqerxfMq3K9AnAv7KJrnudICz8HGKe2HSM_CEa7NCDGjqvZJo7i5NDPC1wT9O92ggugytX7hPSwBqkjD1yirFbqxiRk165WT3NtNUi8Keg4TI55Re188m28rZLwCE_-h8UlCpHc7gGYf5XavskRcLHUOHPGoRq5RcTtBn5klCQO_xCBgtdnMjZeJZln_CXkFSJQA=w626-h352-no (from https://www.monsterlab.vn/5-ly-do-thiet-ke-do-hoa-quan-trong-voi-doanh-nghiep-cua-ban/)
+15:50:28	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4141 (from https://www.monsterlab.vn/monster-lab-thong-bao-doi-ten-hoc-vien/)
+15:50:28	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4141
+15:50:28	Warning: 	File has moved from https://www.monsterlab.vn/?p=4141 to https://www.monsterlab.vn/monster-lab-thong-bao-doi-ten-hoc-vien/
+15:50:30	Error: 	"Request-URI Too Long" (414) at link https://www.monsterlab.vn/monster-lab-thong-bao-doi-ten-hoc-vien/;https://lh3.googleusercontent.com/oa06Y7HrjXDa0OE_L85VsxnQSUxgT5KI2VkRZuQ6fA7UXUpIlrkVWgV3dHdPg3wNeZgNr7MzFkeg02u9dt8Q0bUrN2Y9Y_gg8Y2ZD2IUs18M9BWg1veWwt4-8vBKtYRPxUHLqTAIrIOXU2UDWHa_gUe16d0ot6ESPPUo_kfEQlrPBZxcuPNk3vIJSUQM9OPm9zH1UejR7OgBIcg0IkjavFYg8r29GDXDl94tiMNZcDqidZV7g6swifNmoyU1BQxxV8EIz8F7LGyuZs5Li8DI4VUY2LRL6eLAa1c0-JNoE4ma_uqITrPWJqH5c4EtnAaDnx3b3mwjhQGm1Rw8D4UbDX5RvIsSkX7pRNTAKbvP8DSqIJbCEQTekmmtvO4yXP05BfOGNlq8bYsf-ZsjW-0pd9-VAGOV5aHZ-5cmwmUsbwKYJHIfhpIY_gDjGss5mDP20fBbgLywfUYsgGb6nXSAokOG2pa8Wkj1cxCLnuIX2uXzAwTHhC9SqerxfMq3K9AnAv7KJrnudICz8HGKe2HSM_CEa7NCDGjqvZJo7i5NDPC1wT9O92ggugytX7hPSwBqkjD1yirFbqxiRk165WT3NtNUi8Keg4TI55Re188m28rZLwCE_-h8UlCpHc7gGYf5XavskRcLHUOHPGoRq5RcTtBn5klCQO_xCBgtdnMjZeJZln_CXkFSJQA=w626-h352-no (from https://www.monsterlab.vn/monster-lab-thong-bao-doi-ten-hoc-vien/)
+15:50:30	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/poster-la-gi-tai-sao-can-su-dung-poster/ResizeSensor.js (from https://www.monsterlab.vn/wp-content/cache/minify/13b08.js)
+15:50:32	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/khong-gian-tai-monster-lab/youtu.be/ (from https://www.monsterlab.vn/wp-content/cache/minify/949cc.js)
+15:50:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/media/309 (from https://www.monsterlab.vn/khoa-hoc-ngan-han/digital-painting/)
+15:50:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=309
+15:50:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=309 to https://www.monsterlab.vn/khoa-hoc-ngan-han/digital-painting/
+15:50:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/design-basic-marcom/
+15:50:32	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/design-basic-marcom/ to https://www.monsterlab.vn/portfolio-posts/design-basic-marcom/
+15:50:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1960
+15:50:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=1960 to https://www.monsterlab.vn/portfolio-posts/design-basic-marcom/
+15:50:36	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=108
+15:50:36	Warning: 	File has moved from https://www.monsterlab.vn/?p=108 to https://www.monsterlab.vn/albums/mau-nuoc-co-ban/
+15:50:36	Warning: 	Moved Permanently for https://www.monsterlab.vn/author/superman/
+15:50:36	Warning: 	File has moved from https://www.monsterlab.vn/author/superman/ to https://www.monsterlab.vn
+15:51:31	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7224 (from https://www.monsterlab.vn/thuyet-trinh-lam-viec-nhom-marketing-pitching/)
+15:51:31	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7224
+15:51:31	Warning: 	File has moved from https://www.monsterlab.vn/?p=7224 to https://www.monsterlab.vn/thuyet-trinh-lam-viec-nhom-marketing-pitching/
+15:51:31	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4097 (from https://www.monsterlab.vn/nghe-ve-minh-hoa-nhung-buoc-chan-dau-tien/)
+15:51:31	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4097
+15:51:31	Warning: 	File has moved from https://www.monsterlab.vn/?p=4097 to https://www.monsterlab.vn/nghe-ve-minh-hoa-nhung-buoc-chan-dau-tien/
+15:51:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/3694 (from https://www.monsterlab.vn/wacom-intous-s-ctl-4100-chi-950-000d-duy-nhat-tai-monster-lab/)
+15:51:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=3694
+15:51:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=3694 to https://www.monsterlab.vn/wacom-intous-s-ctl-4100-chi-950-000d-duy-nhat-tai-monster-lab/
+15:51:32	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/wp-content/uploads/2017/09/menu2-1.png (from https://www.monsterlab.vn/wacom-intous-s-ctl-4100-chi-950-000d-duy-nhat-tai-monster-lab/)
+15:51:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/digital-art/
+15:51:32	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/digital-art/ to https://www.monsterlab.vn/portfolio-posts/digital-art/
+15:51:35	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/3674 (from https://www.monsterlab.vn/monster-lab-doi-tac-chien-luoc-chinh-thuc-cua-wacom-tai-viet-nam/)
+15:51:35	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=3674
+15:51:35	Warning: 	File has moved from https://www.monsterlab.vn/?p=3674 to https://www.monsterlab.vn/monster-lab-doi-tac-chien-luoc-chinh-thuc-cua-wacom-tai-viet-nam/
+15:51:37	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1917 (from https://www.monsterlab.vn/dont-drown-sea-animation-dung-chet-chim-trong-bien-animation/)
+15:51:37	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1917
+15:51:37	Warning: 	File has moved from https://www.monsterlab.vn/?p=1917 to https://www.monsterlab.vn/dont-drown-sea-animation-dung-chet-chim-trong-bien-animation/
+15:52:44	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/147 (from https://www.monsterlab.vn/tag/trai-he-nghe-thuat/)
+15:52:44	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/152 (from https://www.monsterlab.vn/tag/trai-he/)
+15:52:44	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4478 (from https://www.monsterlab.vn/tuyen-dung-giang-vien/)
+15:52:44	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4478
+15:52:44	Warning: 	File has moved from https://www.monsterlab.vn/?p=4478 to https://www.monsterlab.vn/tuyen-dung-giang-vien/
+15:52:46	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7137 (from https://www.monsterlab.vn/hoc-het-lop-9-hoc-nghe-gi/)
+15:52:46	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7137
+15:52:46	Warning: 	File has moved from https://www.monsterlab.vn/?p=7137 to https://www.monsterlab.vn/hoc-het-lop-9-hoc-nghe-gi/
+15:52:46	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7123 (from https://www.monsterlab.vn/chuong-trinh-lien-ket-dao-tao/)
+15:52:46	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7123
+15:52:46	Warning: 	File has moved from https://www.monsterlab.vn/?p=7123 to https://www.monsterlab.vn/chuong-trinh-lien-ket-dao-tao/
+15:52:46	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7113 (from https://www.monsterlab.vn/hoc-chuong-trinh-9-nganh-thiet-ke-do-hoa-o-dau/)
+15:52:46	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7113
+15:52:46	Warning: 	File has moved from https://www.monsterlab.vn/?p=7113 to https://www.monsterlab.vn/hoc-chuong-trinh-9-nganh-thiet-ke-do-hoa-o-dau/
+15:52:49	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6705 (from https://www.monsterlab.vn/6705-2/)
+15:52:49	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6705
+15:52:49	Warning: 	File has moved from https://www.monsterlab.vn/?p=6705 to https://www.monsterlab.vn/6705-2/
+15:52:54	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4463 (from https://www.monsterlab.vn/tuyen-dung-sale-sro/)
+15:52:54	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4463
+15:52:54	Warning: 	File has moved from https://www.monsterlab.vn/?p=4463 to https://www.monsterlab.vn/tuyen-dung-sale-sro/
+15:52:54	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4151 (from https://www.monsterlab.vn/chuong-trinh-dao-tao-nhan-su-theo-yeu-cau/)
+15:52:54	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4151
+15:52:54	Warning: 	File has moved from https://www.monsterlab.vn/?p=4151 to https://www.monsterlab.vn/chuong-trinh-dao-tao-nhan-su-theo-yeu-cau/
+15:52:56	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4664 (from https://www.monsterlab.vn/hoc-concept-art-illustration-ra-truong-lam-gi/)
+15:52:56	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4664
+15:52:56	Warning: 	File has moved from https://www.monsterlab.vn/?p=4664 to https://www.monsterlab.vn/hoc-concept-art-illustration-ra-truong-lam-gi/
+15:53:02	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4641 (from https://www.monsterlab.vn/hoc-thiet-ke-layout-o-dau/)
+15:53:02	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4641
+15:53:02	Warning: 	File has moved from https://www.monsterlab.vn/?p=4641 to https://www.monsterlab.vn/hoc-thiet-ke-layout-o-dau/
+15:53:02	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4632 (from https://www.monsterlab.vn/giai-phau-hoc-cong-cu-phuc-vu-muc-dich-sang-tao/)
+15:53:02	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4632
+15:53:02	Warning: 	File has moved from https://www.monsterlab.vn/?p=4632 to https://www.monsterlab.vn/giai-phau-hoc-cong-cu-phuc-vu-muc-dich-sang-tao/
+15:53:05	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4601 (from https://www.monsterlab.vn/ve-nguon-coi-cua-thiet-ke-do-hoa/)
+15:53:05	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4601
+15:53:05	Warning: 	File has moved from https://www.monsterlab.vn/?p=4601 to https://www.monsterlab.vn/ve-nguon-coi-cua-thiet-ke-do-hoa/
+15:53:05	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/digital-artist-expert/?fbclid=IwAR23lEut7p8DBFbWBl8E0JGVlMzfjN-lSCE9u9XwXh5jDfPAOLMkXJ6GbJI
+15:53:05	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/digital-artist-expert/?fbclid=IwAR23lEut7p8DBFbWBl8E0JGVlMzfjN-lSCE9u9XwXh5jDfPAOLMkXJ6GbJI to https://www.monsterlab.vn/portfolio-posts/digital-artist-expert/?fbclid=IwAR23lEut7p8DBFbWBl8E0JGVlMzfjN-lSCE9u9XwXh5jDfPAOLMkXJ6GbJI
+15:53:05	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4585 (from https://www.monsterlab.vn/creature-designer-nhung-ke-hoc-viec-cua-me-tu-nhien/)
+15:53:05	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4585
+15:53:05	Warning: 	File has moved from https://www.monsterlab.vn/?p=4585 to https://www.monsterlab.vn/creature-designer-nhung-ke-hoc-viec-cua-me-tu-nhien/
+15:53:05	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4569 (from https://www.monsterlab.vn/bo-mon-phoi-canh-luat-xa-gan/)
+15:53:05	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4569
+15:53:05	Warning: 	File has moved from https://www.monsterlab.vn/?p=4569 to https://www.monsterlab.vn/bo-mon-phoi-canh-luat-xa-gan/
+15:53:05	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/digital-artist-expert/?fbclid=IwAR0IQL7cv9k2XF8Dnj0DTc7kMZHqcR5J9yCWOIyXMhtOBpQoou80JqwpOtc
+15:53:05	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/digital-artist-expert/?fbclid=IwAR0IQL7cv9k2XF8Dnj0DTc7kMZHqcR5J9yCWOIyXMhtOBpQoou80JqwpOtc to https://www.monsterlab.vn/portfolio-posts/digital-artist-expert/?fbclid=IwAR0IQL7cv9k2XF8Dnj0DTc7kMZHqcR5J9yCWOIyXMhtOBpQoou80JqwpOtc
+15:53:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/52 (from https://www.monsterlab.vn/tag/sketch-cartoon/)
+15:53:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/73 (from https://www.monsterlab.vn/tag/sketch/)
+15:53:14	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/131 (from https://www.monsterlab.vn/tag/cartoon/)
+15:53:14	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5536 (from https://www.monsterlab.vn/4-buoc-don-gian-de-cai-thien-kha-nang-ve-sketch/)
+15:53:14	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5536
+15:53:14	Warning: 	File has moved from https://www.monsterlab.vn/?p=5536 to https://www.monsterlab.vn/4-buoc-don-gian-de-cai-thien-kha-nang-ve-sketch/
+15:53:29	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4124 (from https://www.monsterlab.vn/hoc-digital-painting-la-hoc-gi-ra-truong-thi-lam-gi/)
+15:53:29	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4124
+15:53:29	Warning: 	File has moved from https://www.monsterlab.vn/?p=4124 to https://www.monsterlab.vn/hoc-digital-painting-la-hoc-gi-ra-truong-thi-lam-gi/
+15:53:34	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1074 (from https://www.monsterlab.vn/bo-anh-ngo-nghinh-khi-cac-nhan-vat-hoat-hinh-gia-cua-hoa-si-chicago/)
+15:53:34	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1074
+15:53:34	Warning: 	File has moved from https://www.monsterlab.vn/?p=1074 to https://www.monsterlab.vn/bo-anh-ngo-nghinh-khi-cac-nhan-vat-hoat-hinh-gia-cua-hoa-si-chicago/
+15:53:39	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/130 (from https://www.monsterlab.vn/tag/ve-truyen-tranh/)
+15:53:39	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/64 (from https://www.monsterlab.vn/tag/thiet-ke-do-hoa/)
+15:53:48	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/132 (from https://www.monsterlab.vn/tag/dao-tao-lien-ket/)
+15:53:48	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/133 (from https://www.monsterlab.vn/tag/cao-dang/)
+15:53:48	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/134 (from https://www.monsterlab.vn/tag/chuong-trinh-chat-luong-cao/)
+15:53:49	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/135 (from https://www.monsterlab.vn/tag/concept-art/)
+15:53:56	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7003 (from https://www.monsterlab.vn/tu-bo-giang-duong-dai-hoc-di-day-tu-nhan/)
+15:53:56	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7003
+15:53:56	Warning: 	File has moved from https://www.monsterlab.vn/?p=7003 to https://www.monsterlab.vn/tu-bo-giang-duong-dai-hoc-di-day-tu-nhan/
+15:53:58	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/119 (from https://www.monsterlab.vn/tag/ve-tranh-minh-hoa/)
+15:53:58	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/136 (from https://www.monsterlab.vn/tag/illustration/)
+15:53:58	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/137 (from https://www.monsterlab.vn/tag/digital-art/)
+15:53:58	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4133 (from https://www.monsterlab.vn/art-director-khac-designer-nhu-the-nao/)
+15:53:58	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4133
+15:53:58	Warning: 	File has moved from https://www.monsterlab.vn/?p=4133 to https://www.monsterlab.vn/art-director-khac-designer-nhu-the-nao/
+15:53:59	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/categories/120 (from https://www.monsterlab.vn/category/emagazine/)
+15:54:03	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4945 (from https://www.monsterlab.vn/dieu-tuyet-voi-nhat/)
+15:54:03	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4945
+15:54:03	Warning: 	File has moved from https://www.monsterlab.vn/?p=4945 to https://www.monsterlab.vn/dieu-tuyet-voi-nhat/
+15:54:07	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5078 (from https://www.monsterlab.vn/di-tim-hanh-phuc/)
+15:54:07	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5078
+15:54:07	Warning: 	File has moved from https://www.monsterlab.vn/?p=5078 to https://www.monsterlab.vn/di-tim-hanh-phuc/
+15:54:15	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6336 (from https://www.monsterlab.vn/hoc-truc-tuyen-hinh-thuc-hoc-tap-cua-tuong-lai/)
+15:54:15	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6336
+15:54:15	Warning: 	File has moved from https://www.monsterlab.vn/?p=6336 to https://www.monsterlab.vn/hoc-truc-tuyen-hinh-thuc-hoc-tap-cua-tuong-lai/
+15:54:20	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6202 (from https://www.monsterlab.vn/dung-nham-lan-giua-anime-va-manga/)
+15:54:20	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6202
+15:54:20	Warning: 	File has moved from https://www.monsterlab.vn/?p=6202 to https://www.monsterlab.vn/dung-nham-lan-giua-anime-va-manga/
+15:54:25	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6089 (from https://www.monsterlab.vn/toi-khong-thich-ve/)
+15:54:25	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6089
+15:54:25	Warning: 	File has moved from https://www.monsterlab.vn/?p=6089 to https://www.monsterlab.vn/toi-khong-thich-ve/
+15:54:30	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6159 (from https://www.monsterlab.vn/tu-uoc-mo-den-con-ac-mong/)
+15:54:30	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6159
+15:54:30	Warning: 	File has moved from https://www.monsterlab.vn/?p=6159 to https://www.monsterlab.vn/tu-uoc-mo-den-con-ac-mong/
+15:54:30	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/2494 (from https://www.monsterlab.vn/su-dung-layers-trong-digital-painting/)
+15:54:30	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2494
+15:54:30	Warning: 	File has moved from https://www.monsterlab.vn/?p=2494 to https://www.monsterlab.vn/su-dung-layers-trong-digital-painting/
+15:54:33	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7152 (from https://www.monsterlab.vn/ky-thuat-ve-net-trong-tranh-phong-canh/)
+15:54:33	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7152
+15:54:33	Warning: 	File has moved from https://www.monsterlab.vn/?p=7152 to https://www.monsterlab.vn/ky-thuat-ve-net-trong-tranh-phong-canh/
+15:54:33	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1061 (from https://www.monsterlab.vn/nhung-xu-huong-typography-co-ban-chua-thu-trong-nam-2015/)
+15:54:33	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1061
+15:54:33	Warning: 	File has moved from https://www.monsterlab.vn/?p=1061 to https://www.monsterlab.vn/nhung-xu-huong-typography-co-ban-chua-thu-trong-nam-2015/
+15:54:44	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/47 (from https://www.monsterlab.vn/tag/thiet-ke/)
+15:54:44	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/59 (from https://www.monsterlab.vn/tag/sang-tao/)
+15:54:48	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/62 (from https://www.monsterlab.vn/tag/monster-lab/)
+15:54:48	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/65 (from https://www.monsterlab.vn/tag/dao-tao-thiet-ke/)
+15:54:48	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/78 (from https://www.monsterlab.vn/tag/thiet-ke-co-ban/)
+15:54:48	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6588 (from https://www.monsterlab.vn/thiet-ke-do-hoa-khong-phai-mi-an-lien/)
+15:54:48	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6588
+15:54:48	Warning: 	File has moved from https://www.monsterlab.vn/?p=6588 to https://www.monsterlab.vn/thiet-ke-do-hoa-khong-phai-mi-an-lien/
+15:54:48	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5441 (from https://www.monsterlab.vn/su-that-ve-top-3-truong-day-thiet-ke-do-hoa-tot-nhat-mien-bac/)
+15:54:48	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5441
+15:54:48	Warning: 	File has moved from https://www.monsterlab.vn/?p=5441 to https://www.monsterlab.vn/su-that-ve-top-3-truong-day-thiet-ke-do-hoa-tot-nhat-mien-bac/
+15:55:05	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5305 (from https://www.monsterlab.vn/hoc-motion-graphics-co-phai-la-hoc-after-effects/)
+15:55:05	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5305
+15:55:05	Warning: 	File has moved from https://www.monsterlab.vn/?p=5305 to https://www.monsterlab.vn/hoc-motion-graphics-co-phai-la-hoc-after-effects/
+15:55:29	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/84 (from https://www.monsterlab.vn/tag/hoc-thu/)
+15:55:29	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/85 (from https://www.monsterlab.vn/tag/hoc-thiet-ke/)
+15:55:29	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/63 (from https://www.monsterlab.vn/tag/phong-thi-nghiem-quai-vat/)
+15:55:29	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1107 (from https://www.monsterlab.vn/photoshop-or-not/)
+15:55:29	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1107
+15:55:29	Warning: 	File has moved from https://www.monsterlab.vn/?p=1107 to https://www.monsterlab.vn/photoshop-or-not/
+15:55:33	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/categories/41 (from https://www.monsterlab.vn/category/fun-fact/)
+15:55:37	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1175 (from https://www.monsterlab.vn/15-poster-phim-cuc-an-tuong/)
+15:55:37	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1175
+15:55:37	Warning: 	File has moved from https://www.monsterlab.vn/?p=1175 to https://www.monsterlab.vn/15-poster-phim-cuc-an-tuong/
+15:55:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/74 (from https://www.monsterlab.vn/tag/photoshop/)
+15:55:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/116 (from https://www.monsterlab.vn/tag/lightroom/)
+15:55:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/88 (from https://www.monsterlab.vn/tag/thiet-ke-poster/)
+15:55:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/89 (from https://www.monsterlab.vn/tag/poster-dep/)
+15:55:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/114 (from https://www.monsterlab.vn/tag/design-thinking/)
+15:55:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/115 (from https://www.monsterlab.vn/tag/design-for-ads/)
+15:55:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/113 (from https://www.monsterlab.vn/tag/do-design-smartly/)
+15:55:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1677 (from https://www.monsterlab.vn/tat-tan-tat-ve-explainer-videos/)
+15:55:53	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1677
+15:55:53	Warning: 	File has moved from https://www.monsterlab.vn/?p=1677 to https://www.monsterlab.vn/tat-tan-tat-ve-explainer-videos/
+15:55:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/48 (from https://www.monsterlab.vn/tag/nhan-dien-thuong-hieu/)
+15:55:53	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=3072
+15:55:53	Warning: 	File has moved from https://www.monsterlab.vn/?p=3072 to https://www.monsterlab.vn/testimonial/2d-design-expert-2/
+15:55:53	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/2018/02/ (from https://www.monsterlab.vn/testimonial/2d-design-expert-2/)
+15:55:59	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/design-basic-sinh-vien/
+15:55:59	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/design-basic-sinh-vien/ to https://www.monsterlab.vn/portfolio-posts/design-basic-sinh-vien/
+15:55:59	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1913
+15:55:59	Warning: 	File has moved from https://www.monsterlab.vn/?p=1913 to https://www.monsterlab.vn/portfolio-posts/design-basic-sinh-vien/
+15:56:04	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=102
+15:56:04	Warning: 	File has moved from https://www.monsterlab.vn/?p=102 to https://www.monsterlab.vn/albums/digital-painting/
+15:56:04	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=109
+15:56:04	Warning: 	File has moved from https://www.monsterlab.vn/?p=109 to https://www.monsterlab.vn/albums/sketch-cartoon/
+15:56:04	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/media/1446 (from https://www.monsterlab.vn/design-for-ads/)
+15:56:04	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1446
+15:56:04	Warning: 	File has moved from https://www.monsterlab.vn/?p=1446 to https://www.monsterlab.vn/design-for-ads/
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7221 (from https://www.monsterlab.vn/noi-duy-nhat-minh-lam-viec-suot-5-nam-lien-ma-khong-thay-chan/)
+15:56:57	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7221
+15:56:57	Warning: 	File has moved from https://www.monsterlab.vn/?p=7221 to https://www.monsterlab.vn/noi-duy-nhat-minh-lam-viec-suot-5-nam-lien-ma-khong-thay-chan/
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7216 (from https://www.monsterlab.vn/tu-mot-thu-nghiem-den-niem-dam-me-moi-voi-mon-phoi-canh-co-ban/)
+15:56:57	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7216
+15:56:57	Warning: 	File has moved from https://www.monsterlab.vn/?p=7216 to https://www.monsterlab.vn/tu-mot-thu-nghiem-den-niem-dam-me-moi-voi-mon-phoi-canh-co-ban/
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7210 (from https://www.monsterlab.vn/bo-cuc-mau/)
+15:56:57	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7210
+15:56:57	Warning: 	File has moved from https://www.monsterlab.vn/?p=7210 to https://www.monsterlab.vn/bo-cuc-mau/
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/7203 (from https://www.monsterlab.vn/giai-phau-hoc-nghe-thuat/)
+15:56:57	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=7203
+15:56:57	Warning: 	File has moved from https://www.monsterlab.vn/?p=7203 to https://www.monsterlab.vn/giai-phau-hoc-nghe-thuat/
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6984 (from https://www.monsterlab.vn/illumination-year-end-party-fair-2020-sieu-hoanh-trang-cua-monster-lab/)
+15:56:57	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6984
+15:56:57	Warning: 	File has moved from https://www.monsterlab.vn/?p=6984 to https://www.monsterlab.vn/illumination-year-end-party-fair-2020-sieu-hoanh-trang-cua-monster-lab/
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6902 (from https://www.monsterlab.vn/ly-giai-tinh-truu-tuong-trong-hoi-hoa-hien-dai/)
+15:56:57	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6902
+15:56:57	Warning: 	File has moved from https://www.monsterlab.vn/?p=6902 to https://www.monsterlab.vn/ly-giai-tinh-truu-tuong-trong-hoi-hoa-hien-dai/
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6812 (from https://www.monsterlab.vn/su-phat-trien-cua-ky-tu-phap/)
+15:56:57	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6812
+15:56:57	Warning: 	File has moved from https://www.monsterlab.vn/?p=6812 to https://www.monsterlab.vn/su-phat-trien-cua-ky-tu-phap/
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6773 (from https://www.monsterlab.vn/typography-lagi/)
+15:56:57	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6773
+15:56:57	Warning: 	File has moved from https://www.monsterlab.vn/?p=6773 to https://www.monsterlab.vn/typography-lagi/
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/138 (from https://www.monsterlab.vn/tag/illustation/)
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/126 (from https://www.monsterlab.vn/tag/wacom/)
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/128 (from https://www.monsterlab.vn/tag/wacom-intuos/)
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/129 (from https://www.monsterlab.vn/tag/ctl-4100/)
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/127 (from https://www.monsterlab.vn/tag/partnership/)
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1701 (from https://www.monsterlab.vn/5-buoc-tu-duy-khong-thieu-cua-1-designer/)
+15:56:57	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1701
+15:56:57	Warning: 	File has moved from https://www.monsterlab.vn/?p=1701 to https://www.monsterlab.vn/5-buoc-tu-duy-khong-thieu-cua-1-designer/
+15:56:57	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1696 (from https://www.monsterlab.vn/nhung-ky-thuat-ve-mau-nuoc-co-ban-danh-cho-nguoi-moi/)
+15:56:57	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1696
+15:56:57	Warning: 	File has moved from https://www.monsterlab.vn/?p=1696 to https://www.monsterlab.vn/nhung-ky-thuat-ve-mau-nuoc-co-ban-danh-cho-nguoi-moi/
+15:57:02	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/categories/42 (from https://www.monsterlab.vn/category/utorials/)
+15:57:02	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1683 (from https://www.monsterlab.vn/nhung-ky-thuat-ve-mau-nuoc-co-ban-danh-cho-nguoi-moi-bat-dau/)
+15:57:02	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1683
+15:57:02	Warning: 	File has moved from https://www.monsterlab.vn/?p=1683 to https://www.monsterlab.vn/nhung-ky-thuat-ve-mau-nuoc-co-ban-danh-cho-nguoi-moi-bat-dau/
+15:57:03	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1686 (from https://www.monsterlab.vn/nhung-loi-khuyen-hang-dau-truoc-khi-bat-tay-lam-motion-graphics/)
+15:57:03	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1686
+15:57:03	Warning: 	File has moved from https://www.monsterlab.vn/?p=1686 to https://www.monsterlab.vn/nhung-loi-khuyen-hang-dau-truoc-khi-bat-tay-lam-motion-graphics/
+15:57:05	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1540 (from https://www.monsterlab.vn/9-loi-khuyen-danh-cho-nguoi-moi-phac-hoa/)
+15:57:05	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1540
+15:57:05	Warning: 	File has moved from https://www.monsterlab.vn/?p=1540 to https://www.monsterlab.vn/9-loi-khuyen-danh-cho-nguoi-moi-phac-hoa/
+15:57:05	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/sketch-cartoon/
+15:57:05	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/sketch-cartoon/ to https://www.monsterlab.vn/albums/sketch-cartoon/
+15:57:14	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1506 (from https://www.monsterlab.vn/kham-pha-chum-photo-manipulation-cuc-sang-tao/)
+15:57:14	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1506
+15:57:14	Warning: 	File has moved from https://www.monsterlab.vn/?p=1506 to https://www.monsterlab.vn/kham-pha-chum-photo-manipulation-cuc-sang-tao/
+15:57:16	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1124 (from https://www.monsterlab.vn/keyboard-shortcuts-illutrator-photoshop-indesign/)
+15:57:16	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1124
+15:57:16	Warning: 	File has moved from https://www.monsterlab.vn/?p=1124 to https://www.monsterlab.vn/keyboard-shortcuts-illutrator-photoshop-indesign/
+15:57:19	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1098 (from https://www.monsterlab.vn/nhung-cuoc-thay-da-doi-thit-cua-cac-ong-lon/)
+15:57:19	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1098
+15:57:19	Warning: 	File has moved from https://www.monsterlab.vn/?p=1098 to https://www.monsterlab.vn/nhung-cuoc-thay-da-doi-thit-cua-cac-ong-lon/
+15:57:24	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1405 (from https://www.monsterlab.vn/tranh-mau-nuoc-dep-kho-cuong-cua-nu-hoa-si-17-tuoi/)
+15:57:24	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1405
+15:57:24	Warning: 	File has moved from https://www.monsterlab.vn/?p=1405 to https://www.monsterlab.vn/tranh-mau-nuoc-dep-kho-cuong-cua-nu-hoa-si-17-tuoi/
+15:57:26	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1470 (from https://www.monsterlab.vn/cach-tao-hieu-ung-kieu-chu-bokeh/)
+15:57:26	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1470
+15:57:26	Warning: 	File has moved from https://www.monsterlab.vn/?p=1470 to https://www.monsterlab.vn/cach-tao-hieu-ung-kieu-chu-bokeh/
+15:57:27	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1466 (from https://www.monsterlab.vn/5-bo-phim-stopmotion-tuyet-voi-chac-chan-ban-khong-doi-mat/)
+15:57:27	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1466
+15:57:27	Warning: 	File has moved from https://www.monsterlab.vn/?p=1466 to https://www.monsterlab.vn/5-bo-phim-stopmotion-tuyet-voi-chac-chan-ban-khong-doi-mat/
+15:57:29	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1186 (from https://www.monsterlab.vn/doc-dao-voi-nhung-buc-chan-dung-tu-con-chu/)
+15:57:29	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1186
+15:57:29	Warning: 	File has moved from https://www.monsterlab.vn/?p=1186 to https://www.monsterlab.vn/doc-dao-voi-nhung-buc-chan-dung-tu-con-chu/
+15:57:30	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/146 (from https://www.monsterlab.vn/tag/tuyen-dung/)
+15:57:30	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/178 (from https://www.monsterlab.vn/tag/chuong-trinh-9/)
+15:57:30	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/179 (from https://www.monsterlab.vn/tag/nganh-thiet-ke-do-hoa/)
+15:57:30	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6721 (from https://www.monsterlab.vn/ve-that-nhieu-ve-that-cham/)
+15:57:30	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6721
+15:57:30	Warning: 	File has moved from https://www.monsterlab.vn/?p=6721 to https://www.monsterlab.vn/ve-that-nhieu-ve-that-cham/
+15:57:30	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/142 (from https://www.monsterlab.vn/tag/dao-tao-doanh-nghiep/)
+15:57:30	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4904 (from https://www.monsterlab.vn/ve-minh-hoa-la-gi/)
+15:57:30	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4904
+15:57:30	Warning: 	File has moved from https://www.monsterlab.vn/?p=4904 to https://www.monsterlab.vn/ve-minh-hoa-la-gi/
+15:57:30	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/153 (from https://www.monsterlab.vn/tag/giai-phau-hoc/)
+15:57:30	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/161 (from https://www.monsterlab.vn/tag/anatomy/)
+15:57:31	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/149 (from https://www.monsterlab.vn/tag/phoi-canh/)
+15:57:31	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/150 (from https://www.monsterlab.vn/tag/phoi-canh-co-ban/)
+15:57:31	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/151 (from https://www.monsterlab.vn/tag/hoa-si-minh-hoa/)
+15:57:42	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1101 (from https://www.monsterlab.vn/dieu-khac-dinh-cao-tren-nhung-caybut-chi/)
+15:57:42	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1101
+15:57:42	Warning: 	File has moved from https://www.monsterlab.vn/?p=1101 to https://www.monsterlab.vn/dieu-khac-dinh-cao-tren-nhung-caybut-chi/
+15:57:45	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/162 (from https://www.monsterlab.vn/tag/ve-tay/)
+15:57:45	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5532 (from https://www.monsterlab.vn/designer-co-can-biet-ve-tay-khong/)
+15:57:45	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5532
+15:57:45	Warning: 	File has moved from https://www.monsterlab.vn/?p=5532 to https://www.monsterlab.vn/designer-co-can-biet-ve-tay-khong/
+15:57:45	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5544 (from https://www.monsterlab.vn/nghe-thuat-thiet-ke-an-chua-dang-sau-cac-poster-phim-dinh-dam/)
+15:57:45	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5544
+15:57:45	Warning: 	File has moved from https://www.monsterlab.vn/?p=5544 to https://www.monsterlab.vn/nghe-thuat-thiet-ke-an-chua-dang-sau-cac-poster-phim-dinh-dam/
+15:57:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/50 (from https://www.monsterlab.vn/tag/nhan-vat-hoat-hinh/)
+15:57:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/53 (from https://www.monsterlab.vn/tag/sketch-drawing/)
+15:57:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/140 (from https://www.monsterlab.vn/tag/artisi/)
+15:57:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/51 (from https://www.monsterlab.vn/tag/sketching/)
+15:57:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1182 (from https://www.monsterlab.vn/dieu-ky-dieu-tu-doi-ban-tay/)
+15:57:47	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1182
+15:57:47	Warning: 	File has moved from https://www.monsterlab.vn/?p=1182 to https://www.monsterlab.vn/dieu-ky-dieu-tu-doi-ban-tay/
+15:58:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1708 (from https://www.monsterlab.vn/6-nganh-cong-nghiep-tim-kiem-motion-graphics-designer/)
+15:58:09	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1708
+15:58:09	Warning: 	File has moved from https://www.monsterlab.vn/?p=1708 to https://www.monsterlab.vn/6-nganh-cong-nghiep-tim-kiem-motion-graphics-designer/
+15:58:23	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6173 (from https://www.monsterlab.vn/viet-cho-nhung-ban-khoan-cua-tuoi-tre/)
+15:58:23	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6173
+15:58:23	Warning: 	File has moved from https://www.monsterlab.vn/?p=6173 to https://www.monsterlab.vn/viet-cho-nhung-ban-khoan-cua-tuoi-tre/
+15:58:44	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/46 (from https://www.monsterlab.vn/tag/xu-huong-thiet-ke/)
+15:58:44	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/4928 (from https://www.monsterlab.vn/nhung-dieu-can-biet-truoc-khi-tro-thanh-graphic-designer/)
+15:58:44	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=4928
+15:58:44	Warning: 	File has moved from https://www.monsterlab.vn/?p=4928 to https://www.monsterlab.vn/nhung-dieu-can-biet-truoc-khi-tro-thanh-graphic-designer/
+15:58:44	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/3377 (from https://www.monsterlab.vn/sang-tao-co-phai-mot-ca-tinh/)
+15:58:44	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=3377
+15:58:44	Warning: 	File has moved from https://www.monsterlab.vn/?p=3377 to https://www.monsterlab.vn/sang-tao-co-phai-mot-ca-tinh/
+15:58:45	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5165 (from https://www.monsterlab.vn/chasing-dream/)
+15:58:45	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5165
+15:58:45	Warning: 	File has moved from https://www.monsterlab.vn/?p=5165 to https://www.monsterlab.vn/chasing-dream/
+15:58:45	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6342 (from https://www.monsterlab.vn/thiet-ke-do-hoa-online-de-hoc-vua-hieu-qua-vua-tiet-kiem/)
+15:58:45	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6342
+15:58:45	Warning: 	File has moved from https://www.monsterlab.vn/?p=6342 to https://www.monsterlab.vn/thiet-ke-do-hoa-online-de-hoc-vua-hieu-qua-vua-tiet-kiem/
+15:59:16	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6248 (from https://www.monsterlab.vn/di-tim-phong-cach-rieng-cho-mot-nghe-si-truyen-tranh-thuc-thu/)
+15:59:16	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6248
+15:59:16	Warning: 	File has moved from https://www.monsterlab.vn/?p=6248 to https://www.monsterlab.vn/di-tim-phong-cach-rieng-cho-mot-nghe-si-truyen-tranh-thuc-thu/
+15:59:16	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6060 (from https://www.monsterlab.vn/cuoc-song-co-vi-gi/)
+15:59:16	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6060
+15:59:16	Warning: 	File has moved from https://www.monsterlab.vn/?p=6060 to https://www.monsterlab.vn/cuoc-song-co-vi-gi/
+15:59:16	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/117 (from https://www.monsterlab.vn/tag/layers/)
+15:59:16	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/118 (from https://www.monsterlab.vn/tag/digital-painting/)
+15:59:16	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/45 (from https://www.monsterlab.vn/tag/typography/)
+15:59:16	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1134 (from https://www.monsterlab.vn/thu-thuat-dung-photoshop-tao-typography-cuc-thu-vi/)
+15:59:16	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1134
+15:59:16	Warning: 	File has moved from https://www.monsterlab.vn/?p=1134 to https://www.monsterlab.vn/thu-thuat-dung-photoshop-tao-typography-cuc-thu-vi/
+15:59:16	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1069 (from https://www.monsterlab.vn/10-thiet-ke-nhan-dien-thuong-hieu-nha-hang-tuong/)
+15:59:16	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1069
+15:59:16	Warning: 	File has moved from https://www.monsterlab.vn/?p=1069 to https://www.monsterlab.vn/10-thiet-ke-nhan-dien-thuong-hieu-nha-hang-tuong/
+15:59:17	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1080 (from https://www.monsterlab.vn/nhung-sieu-pham-thoi-trang-tu-cu-qua/)
+15:59:17	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1080
+15:59:17	Warning: 	File has moved from https://www.monsterlab.vn/?p=1080 to https://www.monsterlab.vn/nhung-sieu-pham-thoi-trang-tu-cu-qua/
+15:59:19	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/160 (from https://www.monsterlab.vn/tag/truong-day-do-hoa-tot-nhat-o-ha-noi/)
+15:59:19	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5398 (from https://www.monsterlab.vn/10-cuon-sach-cho-hoa-si-minh-hoa/)
+15:59:19	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5398
+15:59:19	Warning: 	File has moved from https://www.monsterlab.vn/?p=5398 to https://www.monsterlab.vn/10-cuon-sach-cho-hoa-si-minh-hoa/
+15:59:19	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5497 (from https://www.monsterlab.vn/5-hoa-si-dat-nen-mong-cho-nganh-ve-minh-hoa-the-gioi/)
+15:59:19	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5497
+15:59:19	Warning: 	File has moved from https://www.monsterlab.vn/?p=5497 to https://www.monsterlab.vn/5-hoa-si-dat-nen-mong-cho-nganh-ve-minh-hoa-the-gioi/
+15:59:19	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/106 (from https://www.monsterlab.vn/tag/motion-graphics/)
+15:59:19	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/159 (from https://www.monsterlab.vn/tag/after-efects/)
+15:59:19	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5271 (from https://www.monsterlab.vn/storyboard-vu-khi-cua-motion-graphics-designers/)
+15:59:19	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5271
+15:59:19	Warning: 	File has moved from https://www.monsterlab.vn/?p=5271 to https://www.monsterlab.vn/storyboard-vu-khi-cua-motion-graphics-designers/
+15:59:20	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5256 (from https://www.monsterlab.vn/motion-graphics-la-gi-nhung-the-loai-cua-motion-graphics/)
+15:59:20	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5256
+15:59:20	Warning: 	File has moved from https://www.monsterlab.vn/?p=5256 to https://www.monsterlab.vn/motion-graphics-la-gi-nhung-the-loai-cua-motion-graphics/
+15:59:20	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5292 (from https://www.monsterlab.vn/5-hoa-si-minh-hoa-co-suc-anh-huong-nhat-moi-thoi-dai/)
+15:59:20	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5292
+15:59:20	Warning: 	File has moved from https://www.monsterlab.vn/?p=5292 to https://www.monsterlab.vn/5-hoa-si-minh-hoa-co-suc-anh-huong-nhat-moi-thoi-dai/
+15:59:21	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5315 (from https://www.monsterlab.vn/dung-nham-lan-illustration-minh-hoa-voi-graphic-design-thiet-ke/)
+15:59:21	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5315
+15:59:21	Warning: 	File has moved from https://www.monsterlab.vn/?p=5315 to https://www.monsterlab.vn/dung-nham-lan-illustration-minh-hoa-voi-graphic-design-thiet-ke/
+15:59:21	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/75 (from https://www.monsterlab.vn/tag/photoshop-co-ban/)
+15:59:21	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/76 (from https://www.monsterlab.vn/tag/chinh-sua-anh/)
+15:59:21	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/77 (from https://www.monsterlab.vn/tag/cat-ghep-anh/)
+15:59:21	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1104 (from https://www.monsterlab.vn/kiet-tac-nghe-thuat-tu-uong-bi/)
+15:59:21	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1104
+15:59:21	Warning: 	File has moved from https://www.monsterlab.vn/?p=1104 to https://www.monsterlab.vn/kiet-tac-nghe-thuat-tu-uong-bi/
+15:59:21	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/90 (from https://www.monsterlab.vn/tag/poster-an-tuong/)
+15:59:21	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/91 (from https://www.monsterlab.vn/tag/poster-phim/)
+15:59:21	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1170 (from https://www.monsterlab.vn/cau-chuyen-thuong-hieu-3-huyen-thoai-cong-nghe/)
+15:59:21	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1170
+15:59:21	Warning: 	File has moved from https://www.monsterlab.vn/?p=1170 to https://www.monsterlab.vn/cau-chuyen-thuong-hieu-3-huyen-thoai-cong-nghe/
+15:59:21	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1077 (from https://www.monsterlab.vn/5-portfolio-giay-dep-man/)
+15:59:21	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1077
+15:59:21	Warning: 	File has moved from https://www.monsterlab.vn/?p=1077 to https://www.monsterlab.vn/5-portfolio-giay-dep-man/
+15:59:24	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/1121 (from https://www.monsterlab.vn/photoshop-tao-hieu-ung-anh-sang-vu-tru-vs-cs6/)
+15:59:24	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1121
+15:59:24	Warning: 	File has moved from https://www.monsterlab.vn/?p=1121 to https://www.monsterlab.vn/photoshop-tao-hieu-ung-anh-sang-vu-tru-vs-cs6/
+15:59:25	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=3061
+15:59:25	Warning: 	File has moved from https://www.monsterlab.vn/?p=3061 to https://www.monsterlab.vn/testimonial/2d-design-expert/
+15:59:28	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2944
+15:59:28	Warning: 	File has moved from https://www.monsterlab.vn/?p=2944 to https://www.monsterlab.vn/testimonial/cam-nhan-hoc-vien-anatomy-lab/
+15:59:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/course-posts/design-basic-2/
+15:59:32	Warning: 	File has moved from https://www.monsterlab.vn/course-posts/design-basic-2/ to https://www.monsterlab.vn/design-basic-2/
+15:59:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1764
+15:59:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=1764 to https://www.monsterlab.vn/portfolio-posts/design-basic-2/
+15:59:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/author/tung-thanh/
+15:59:32	Warning: 	File has moved from https://www.monsterlab.vn/author/tung-thanh/ to https://www.monsterlab.vn
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6601 (from https://www.monsterlab.vn/cach-tao-tai-khoan-tai-monsterlab-edu-vn/)
+15:59:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6601
+15:59:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=6601 to https://www.monsterlab.vn/cach-tao-tai-khoan-tai-monsterlab-edu-vn/
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6576 (from https://www.monsterlab.vn/sang-tao-tu-dau-bat-mi-cho-nhung-ai-lam-thiet-ke-sang-tao/)
+15:59:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6576
+15:59:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=6576 to https://www.monsterlab.vn/sang-tao-tu-dau-bat-mi-cho-nhung-ai-lam-thiet-ke-sang-tao/
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6570 (from https://www.monsterlab.vn/20-dau-hieu-cho-thay-ban-la-mot-nguoi-sang-tao/)
+15:59:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6570
+15:59:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=6570 to https://www.monsterlab.vn/20-dau-hieu-cho-thay-ban-la-mot-nguoi-sang-tao/
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6564 (from https://www.monsterlab.vn/8-xu-huong-thiet-ke-do-hoa-2020/)
+15:59:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6564
+15:59:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=6564 to https://www.monsterlab.vn/8-xu-huong-thiet-ke-do-hoa-2020/
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6552 (from https://www.monsterlab.vn/lam-viec-voi-khach-hang-khi-khach-hang-khong-biet-minh-muon-gi/)
+15:59:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6552
+15:59:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=6552 to https://www.monsterlab.vn/lam-viec-voi-khach-hang-khi-khach-hang-khong-biet-minh-muon-gi/
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6520 (from https://www.monsterlab.vn/hoc-thiet-ke-ban-co-the-vua-hoc-thua-lai-hoc-thieu-nhung-thu-nay/)
+15:59:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6520
+15:59:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=6520 to https://www.monsterlab.vn/hoc-thiet-ke-ban-co-the-vua-hoc-thua-lai-hoc-thieu-nhung-thu-nay/
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6505 (from https://www.monsterlab.vn/y-nghia-cua-mau-sac-trong-thiet-ke/)
+15:59:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6505
+15:59:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=6505 to https://www.monsterlab.vn/y-nghia-cua-mau-sac-trong-thiet-ke/
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6478 (from https://www.monsterlab.vn/cach-mua-khoa-hoc-online-tai-monster-lab/)
+15:59:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6478
+15:59:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=6478 to https://www.monsterlab.vn/cach-mua-khoa-hoc-online-tai-monster-lab/
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6485 (from https://www.monsterlab.vn/nha-tuyen-dung-can-gi-o-mot-designer/)
+15:59:32	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6485
+15:59:32	Warning: 	File has moved from https://www.monsterlab.vn/?p=6485 to https://www.monsterlab.vn/nha-tuyen-dung-can-gi-o-mot-designer/
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/95 (from https://www.monsterlab.vn/tag/mau-nuoc/)
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/96 (from https://www.monsterlab.vn/tag/ve-mau-nuoc/)
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/109 (from https://www.monsterlab.vn/tag/mau-nuoc-co-ban/)
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/112 (from https://www.monsterlab.vn/tag/ky-thuat-mau-nuoc/)
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/108 (from https://www.monsterlab.vn/tag/ky-thuat-co-ban/)
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/110 (from https://www.monsterlab.vn/tag/tips/)
+15:59:32	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/111 (from https://www.monsterlab.vn/tag/thu-thuat/)
+15:59:45	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/103 (from https://www.monsterlab.vn/tag/phac-thao/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/102 (from https://www.monsterlab.vn/tag/manipulation/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/81 (from https://www.monsterlab.vn/tag/keyboard-shortcuts/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/82 (from https://www.monsterlab.vn/tag/illutrator/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/83 (from https://www.monsterlab.vn/tag/indesign/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/66 (from https://www.monsterlab.vn/tag/logo/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/67 (from https://www.monsterlab.vn/tag/thiet-ke-logo/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/68 (from https://www.monsterlab.vn/tag/apple/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/69 (from https://www.monsterlab.vn/tag/walmart/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/70 (from https://www.monsterlab.vn/tag/fedex/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/97 (from https://www.monsterlab.vn/tag/tranh-mau-nuoc/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/98 (from https://www.monsterlab.vn/tag/tu-hoc-ve/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/101 (from https://www.monsterlab.vn/tag/hieu-ung-bokeh/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/99 (from https://www.monsterlab.vn/tag/stop-motion/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/100 (from https://www.monsterlab.vn/tag/phim/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/86 (from https://www.monsterlab.vn/tag/typo/)
+15:59:47	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5517 (from https://www.monsterlab.vn/hoa-si-minh-hoa-tre-viet-nam/)
+15:59:47	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5517
+15:59:47	Warning: 	File has moved from https://www.monsterlab.vn/?p=5517 to https://www.monsterlab.vn/hoa-si-minh-hoa-tre-viet-nam/
+15:59:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/71 (from https://www.monsterlab.vn/tag/dieu-khac/)
+15:59:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/72 (from https://www.monsterlab.vn/tag/but-chi/)
+15:59:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/163 (from https://www.monsterlab.vn/tag/poster-design/)
+15:59:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/164 (from https://www.monsterlab.vn/tag/poster-film/)
+15:59:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5412 (from https://www.monsterlab.vn/9-tips-danh-cho-designer-de-so-huu-mot-poster-an-tuong/)
+15:59:53	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5412
+15:59:53	Warning: 	File has moved from https://www.monsterlab.vn/?p=5412 to https://www.monsterlab.vn/9-tips-danh-cho-designer-de-so-huu-mot-poster-an-tuong/
+15:59:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5375 (from https://www.monsterlab.vn/bat-dau-ve-minh-hoa/)
+15:59:53	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5375
+15:59:53	Warning: 	File has moved from https://www.monsterlab.vn/?p=5375 to https://www.monsterlab.vn/bat-dau-ve-minh-hoa/
+15:59:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5344 (from https://www.monsterlab.vn/portfolio-website-nguon-cam-hung-tuyet-voi-cho-designer/)
+15:59:53	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5344
+15:59:53	Warning: 	File has moved from https://www.monsterlab.vn/?p=5344 to https://www.monsterlab.vn/portfolio-website-nguon-cam-hung-tuyet-voi-cho-designer/
+15:59:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5329 (from https://www.monsterlab.vn/graphic-designer-co-can-phai-ve-dep/)
+15:59:53	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5329
+15:59:53	Warning: 	File has moved from https://www.monsterlab.vn/?p=5329 to https://www.monsterlab.vn/graphic-designer-co-can-phai-ve-dep/
+15:59:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/154 (from https://www.monsterlab.vn/tag/tim-viec/)
+15:59:53	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5985 (from https://www.monsterlab.vn/emagazine-ve/)
+15:59:53	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5985
+15:59:53	Warning: 	File has moved from https://www.monsterlab.vn/?p=5985 to https://www.monsterlab.vn/emagazine-ve/
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6454 (from https://www.monsterlab.vn/truong-nghe-thuat-dau-tien-ket-hop-hoc-offline-va-online/)
+16:00:09	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6454
+16:00:09	Warning: 	File has moved from https://www.monsterlab.vn/?p=6454 to https://www.monsterlab.vn/truong-nghe-thuat-dau-tien-ket-hop-hoc-offline-va-online/
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6230 (from https://www.monsterlab.vn/do-nghe-can-thiet-cua-mot-hoa-si-truyen-tranh/)
+16:00:09	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6230
+16:00:09	Warning: 	File has moved from https://www.monsterlab.vn/?p=6230 to https://www.monsterlab.vn/do-nghe-can-thiet-cua-mot-hoa-si-truyen-tranh/
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6221 (from https://www.monsterlab.vn/hanh-trinh-tao-ra-mot-cuon-truyen-tranh/)
+16:00:09	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6221
+16:00:09	Warning: 	File has moved from https://www.monsterlab.vn/?p=6221 to https://www.monsterlab.vn/hanh-trinh-tao-ra-mot-cuon-truyen-tranh/
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6215 (from https://www.monsterlab.vn/cuoc-song-thuong-nhat-cua-mot-hoa-si-manga/)
+16:00:09	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6215
+16:00:09	Warning: 	File has moved from https://www.monsterlab.vn/?p=6215 to https://www.monsterlab.vn/cuoc-song-thuong-nhat-cua-mot-hoa-si-manga/
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6209 (from https://www.monsterlab.vn/nhung-hoa-si-manga-gan-lien-voi-tuoi-tho/)
+16:00:09	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6209
+16:00:09	Warning: 	File has moved from https://www.monsterlab.vn/?p=6209 to https://www.monsterlab.vn/nhung-hoa-si-manga-gan-lien-voi-tuoi-tho/
+16:00:09	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/chasing-dream/youtu.be/ (from https://www.monsterlab.vn/wp-content/cache/minify/15547.js)
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/6365 (from https://www.monsterlab.vn/ha-noi-tai-po-project-cuoi-mon-typography-sv-pham-quang-hung-k1/)
+16:00:09	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6365
+16:00:09	Warning: 	File has moved from https://www.monsterlab.vn/?p=6365 to https://www.monsterlab.vn/ha-noi-tai-po-project-cuoi-mon-typography-sv-pham-quang-hung-k1/
+16:00:09	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/wp-content/uploads/2020/03/sch-final-issuu19.jpg (from https://www.monsterlab.vn/ha-noi-tai-po-project-cuoi-mon-typography-sv-pham-quang-hung-k1/)
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/49 (from https://www.monsterlab.vn/tag/thiet-ke-nha-hang/)
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/57 (from https://www.monsterlab.vn/tag/thoi-trang/)
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/58 (from https://www.monsterlab.vn/tag/thiet-ke-thoi-trang/)
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/157 (from https://www.monsterlab.vn/tag/storyboard/)
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/158 (from https://www.monsterlab.vn/tag/illustrator/)
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/54 (from https://www.monsterlab.vn/tag/portfolio/)
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/55 (from https://www.monsterlab.vn/tag/thiet-ke-portfolio/)
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/56 (from https://www.monsterlab.vn/tag/portfolio-dep/)
+16:00:09	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/tags/80 (from https://www.monsterlab.vn/tag/hieu-ung/)
+16:00:09	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2387
+16:00:09	Warning: 	File has moved from https://www.monsterlab.vn/?p=2387 to https://www.monsterlab.vn/testimonial/cam-nhan-hoc-vien-digital-painting/
+16:00:11	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=3337
+16:00:11	Warning: 	File has moved from https://www.monsterlab.vn/?p=3337 to https://www.monsterlab.vn/testimonial/cam-nhan-hoc-vien-anatomy-lab2/
+16:00:17	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/tag/phac-thao/TweenLite.js (from https://www.monsterlab.vn/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js)
+16:00:17	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/tag/TweenLite.js (from https://www.monsterlab.vn/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js)
+16:00:17	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/tag/phac-thao/Version/ (from https://www.monsterlab.vn/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js)
+16:00:17	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/tag/phac-thao/themepunch.revolution.min.js (from https://www.monsterlab.vn/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js)
+16:00:17	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/tag/phac-thao/jquery.themepunch.revolution.min.js (from https://www.monsterlab.vn/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js)
+16:00:17	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/tag/phac-thao/jquery.themepunch.revolution.js (from https://www.monsterlab.vn/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js)
+16:00:17	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/tag/phac-thao/images/transparent.png (from https://www.monsterlab.vn/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js)
+16:00:17	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/tag/phac-thao/assets/transparent.png (from https://www.monsterlab.vn/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js)
+16:00:17	Error: 	"Not Found" (404) at link https://www.monsterlab.vn/tag/phac-thao/ResizeSensor.js (from https://www.monsterlab.vn/wp-content/themes/jupiter/assets/js/min/full-scripts.6.1.1.js)
+16:00:17	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5740 (from https://www.monsterlab.vn/phia-sau-ten-goi-cua-cac-cong-viec-thiet-ke/)
+16:00:17	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5740
+16:00:17	Warning: 	File has moved from https://www.monsterlab.vn/?p=5740 to https://www.monsterlab.vn/phia-sau-ten-goi-cua-cac-cong-viec-thiet-ke/
+16:00:17	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5769 (from https://www.monsterlab.vn/thiet-ke-brochure-9-meo-sang-tao-hang-dau/)
+16:00:17	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5769
+16:00:17	Warning: 	File has moved from https://www.monsterlab.vn/?p=5769 to https://www.monsterlab.vn/thiet-ke-brochure-9-meo-sang-tao-hang-dau/
+16:00:17	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5760 (from https://www.monsterlab.vn/cai-thien-ky-nang-digital-painting/)
+16:00:17	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5760
+16:00:17	Warning: 	File has moved from https://www.monsterlab.vn/?p=5760 to https://www.monsterlab.vn/cai-thien-ky-nang-digital-painting/
+16:00:17	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/posts/5748 (from https://www.monsterlab.vn/chu-nghia-toi-gian-tan-thoi-neo-minimalism-trong-graphic-design/)
+16:00:17	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=5748
+16:00:17	Warning: 	File has moved from https://www.monsterlab.vn/?p=5748 to https://www.monsterlab.vn/chu-nghia-toi-gian-tan-thoi-neo-minimalism-trong-graphic-design/
+16:00:17	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2090
+16:00:17	Warning: 	File has moved from https://www.monsterlab.vn/?p=2090 to https://www.monsterlab.vn/testimonial/cam-nhan-hoc-vien-monster-lab-2/
+16:00:20	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=3338
+16:00:20	Warning: 	File has moved from https://www.monsterlab.vn/?p=3338 to https://www.monsterlab.vn/testimonial/cam-nhan-hoc-vien-anatomy-lab3/
+16:00:23	Error: 	"Unauthorized" (401) at link https://www.monsterlab.vn/wp-json/wp/v2/media/1445 (from https://www.monsterlab.vn/design-basic-2/)
+16:00:23	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1445
+16:00:23	Warning: 	File has moved from https://www.monsterlab.vn/?p=1445 to https://www.monsterlab.vn/design-basic-2/
+16:00:23	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=2091
+16:00:23	Warning: 	File has moved from https://www.monsterlab.vn/?p=2091 to https://www.monsterlab.vn/testimonial/cam-nhan-hoc-vien-monster-lab/
+16:00:27	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6852
+16:00:27	Warning: 	File has moved from https://www.monsterlab.vn/?p=6852 to https://www.monsterlab.vn/testimonial/wacom-noi-ve-monster-lab-1/
+16:00:30	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1902
+16:00:30	Warning: 	File has moved from https://www.monsterlab.vn/?p=1902 to https://www.monsterlab.vn/testimonial/truong-thi-minh-hieu-hoc-vien-lop-motion-graphics-khoa-13/
+16:00:33	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6857
+16:00:33	Warning: 	File has moved from https://www.monsterlab.vn/?p=6857 to https://www.monsterlab.vn/testimonial/saokim-noi-ve-monster-lab/
+16:00:36	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1458
+16:00:36	Warning: 	File has moved from https://www.monsterlab.vn/?p=1458 to https://www.monsterlab.vn/testimonial/duy-thanh-design-thinking/
+16:00:39	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6864
+16:00:39	Warning: 	File has moved from https://www.monsterlab.vn/?p=6864 to https://www.monsterlab.vn/testimonial/lbm-noi-ve-monster-lab/
+16:00:42	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1456
+16:00:42	Warning: 	File has moved from https://www.monsterlab.vn/?p=1456 to https://www.monsterlab.vn/testimonial/dong-duc-calligraphy/
+16:00:45	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=6865
+16:00:45	Warning: 	File has moved from https://www.monsterlab.vn/?p=6865 to https://www.monsterlab.vn/testimonial/genesis-studio-noi-ve-monster-lab/
+16:00:45	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1454
+16:00:45	Warning: 	File has moved from https://www.monsterlab.vn/?p=1454 to https://www.monsterlab.vn/testimonial/ngoc-minh-hoc-vien-lop-ads-kit-design-s3/
+16:00:49	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1434
+16:00:49	Warning: 	File has moved from https://www.monsterlab.vn/?p=1434 to https://www.monsterlab.vn/testimonial/le-trieu-vy-hoc-vien-lop-ads-kit-design-3/
+16:00:52	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1432
+16:00:52	Warning: 	File has moved from https://www.monsterlab.vn/?p=1432 to https://www.monsterlab.vn/testimonial/lan-anh-hoc-vien-lop-mau-nuoc-co-ban/
+16:00:56	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1426
+16:00:56	Warning: 	File has moved from https://www.monsterlab.vn/?p=1426 to https://www.monsterlab.vn/testimonial/dang-nghinh-xuan/
+16:01:01	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1423
+16:01:01	Warning: 	File has moved from https://www.monsterlab.vn/?p=1423 to https://www.monsterlab.vn/testimonial/vu-thuy-vy-ads-kit-design-2/
+16:01:04	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1394
+16:01:04	Warning: 	File has moved from https://www.monsterlab.vn/?p=1394 to https://www.monsterlab.vn/testimonial/dung-tran/
+16:01:09	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1386
+16:01:09	Warning: 	File has moved from https://www.monsterlab.vn/?p=1386 to https://www.monsterlab.vn/testimonial/1386/
+16:01:13	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1321
+16:01:13	Warning: 	File has moved from https://www.monsterlab.vn/?p=1321 to https://www.monsterlab.vn/testimonial/dinh-linh-chi-mau-nuoc-co-ban/
+16:01:17	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1316
+16:01:17	Warning: 	File has moved from https://www.monsterlab.vn/?p=1316 to https://www.monsterlab.vn/testimonial/linh-trang-do-monster-lab/
+16:01:21	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1287
+16:01:21	Warning: 	File has moved from https://www.monsterlab.vn/?p=1287 to https://www.monsterlab.vn/testimonial/kieu-my-tu-duy-thiet-ke/
+16:01:24	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=1285
+16:01:24	Warning: 	File has moved from https://www.monsterlab.vn/?p=1285 to https://www.monsterlab.vn/testimonial/thuy-trang-tu-duy-thiet-ke/
+16:01:30	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=942
+16:01:30	Warning: 	File has moved from https://www.monsterlab.vn/?p=942 to https://www.monsterlab.vn/testimonial/nhat-ha-digital-painting/
+16:01:33	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=785
+16:01:33	Warning: 	File has moved from https://www.monsterlab.vn/?p=785 to https://www.monsterlab.vn/testimonial/cam-nhan-hoc-vien-monster-lab-3/
+16:01:38	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=346
+16:01:38	Warning: 	File has moved from https://www.monsterlab.vn/?p=346 to https://www.monsterlab.vn/testimonial/huong-giang-monster-lab/
+16:01:43	Warning: 	Moved Permanently for https://www.monsterlab.vn/?p=339
+16:01:43	Warning: 	File has moved from https://www.monsterlab.vn/?p=339 to https://www.monsterlab.vn/testimonial/tran-yen-motion-graphic/
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 minutes 3 seconds : 3017 links scanned, 2434 files written (711288717 bytes overall), 2435 files updated [673537730 bytes received at 386424 bytes/sec], 74633820 bytes transferred using HTTP compression in 1557 files, ratio 43%, 2.2 requests per connection
+(331 errors, 507 warnings, 0 messages)
